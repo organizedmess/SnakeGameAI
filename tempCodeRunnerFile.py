@@ -1,0 +1,1 @@
+self.w/2, self.h/2)
